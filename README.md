@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAF6N9VB95Q/7IT2sn7i2LW-vHQoLaMuvQ/view?utm_content=DAF6N9VB95Q&utm_campaign=designshare&utm_medium=link&utm_source=editor">
+<img src="https://github.com/tiwarisuraj136/tiwarisuraj136/blob/main/surajbanner.png">
 
 <h1 align="center">Hi 👋, I'm SURAJ TIWARI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
